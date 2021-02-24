@@ -1,6 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+# Bulma clean theme front page layout used.
+title: Swami Vivekananda Seva Trust
+subtitle: 
+layout: page
+callouts: home_callouts
+show_sidebar: true
 ---
