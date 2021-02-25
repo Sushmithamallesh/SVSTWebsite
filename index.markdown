@@ -3,7 +3,6 @@
 title: Swami Vivekananda Seva Trust
 subtitle: 
 layout: page
-callouts: home_callouts
-show_sidebar: true
+show_sidebar: false
 hide_footer: true
 ---
