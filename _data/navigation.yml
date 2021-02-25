@@ -1,1 +1,4 @@
 - name: About us
+  link: /AboutUs/
+- name: Projects
+  link: /projects/

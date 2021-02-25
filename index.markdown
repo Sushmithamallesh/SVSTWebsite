@@ -5,4 +5,5 @@ subtitle:
 layout: page
 callouts: home_callouts
 show_sidebar: true
+hide_footer: true
 ---
